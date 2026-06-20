@@ -1,0 +1,5 @@
+DORM|nada|1|2
+ROOM|1|1
+STUDENT|1|anis|1
+ROOM|2|1
+DORM|ranim|2|3

@@ -1,0 +1,9 @@
+C:/Users/LENOVO/Desktop/University Dormitory Restaurant Management System/UDRMS_GUI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/UDRMS_GUI.dir
+C:/Users/LENOVO/Desktop/University Dormitory Restaurant Management System/UDRMS_GUI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/Desktop/University Dormitory Restaurant Management System/UDRMS_GUI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/LENOVO/Desktop/University Dormitory Restaurant Management System/UDRMS_GUI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/list_install_components.dir
+C:/Users/LENOVO/Desktop/University Dormitory Restaurant Management System/UDRMS_GUI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/install.dir
+C:/Users/LENOVO/Desktop/University Dormitory Restaurant Management System/UDRMS_GUI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/install/local.dir
+C:/Users/LENOVO/Desktop/University Dormitory Restaurant Management System/UDRMS_GUI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/install/strip.dir
+C:/Users/LENOVO/Desktop/University Dormitory Restaurant Management System/UDRMS_GUI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/UDRMS_GUI_autogen_timestamp_deps.dir
+C:/Users/LENOVO/Desktop/University Dormitory Restaurant Management System/UDRMS_GUI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/CMakeFiles/UDRMS_GUI_autogen.dir
